@@ -1,7 +1,7 @@
 # Hi there, I'm Faisal Iqbal 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqlu47qCXW6V6VAqRV7_DPw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/faisalibal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffaisalibal&screen_name=faisalibal)
+original_referer=https%3A%2F%2Fgithub.com%2Ffaisalibal&screen_name=faisalibal)
 
 ## I'm a Aircraft Technician, Developer, and Musician!!
 
@@ -46,7 +46,6 @@
 
   <img align="left" alt="faisalibal33's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faisalibal33&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[twitter]: https://twitter.com/faisalibal
 [youtube]: https://www.youtube.com/channel/UCqlu47qCXW6V6VAqRV7_DPw
 [instagram]: https://www.instagram.com/faisalibal
 [linkedin]: https://www.linkedin.com/in/faisal-iqbal33/
