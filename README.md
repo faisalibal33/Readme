@@ -1,7 +1,6 @@
 # Hi there, I'm Faisal Iqbal 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqlu47qCXW6V6VAqRV7_DPw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-original_referer=https%3A%2F%2Fgithub.com%2Ffaisalibal&screen_name=faisalibal)
 
 ## I'm a Aircraft Technician, Developer, and Musician!!
 
